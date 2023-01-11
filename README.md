@@ -5,13 +5,13 @@
 <details>
 <summary>Table of Contents</summary>
 <br>
-  1. Introduction
+  1. Introduction <br>
      -About this project(s)
-  2.  How to Use
-  3.  Roadmap
-  4.  Contribution
-  5.  Contact
-  6.  Acknowledgements
+  2.  How to Use<br>
+  3.  Roadmap<br>
+  4.  Contribution<br>
+  5.  Contact<br>
+  6.  Acknowledgements<br>
 </details>
 
   
