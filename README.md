@@ -6,7 +6,7 @@
 <summary>Table of Contents</summary>
 <br>
   1. Introduction <br>
-     -About this project(s)
+     -About this project(s)<br>
   2.  How to Use<br>
   3.  Roadmap<br>
   4.  Contribution<br>
@@ -19,13 +19,13 @@
   The purpose of this repo is to study different areas of classes I enjoyed over the years. I will do my own individual research within each field of study.
   
 ##How to use
-  Use how you see fit. As is.
+  <p>Use how you see fit. As is.</p>
   
 ##Roadmap
-  Currently, none
+  <p>Currently, none</p>
   
 ##Contribution
-  Lets build something. Always looking for new things to test out.
+  <p>Lets build something. Always looking for new things to test out.</p>
   
 ##Contact
   <!--[Linkedin badge coming soon]-->
