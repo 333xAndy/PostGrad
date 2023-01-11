@@ -1,2 +1,2 @@
 # PostGrad
-[!\[alt text\](https://img.shields.io/badge/blue-test-blue)](https://github.com/333xAndy/PostGrad.git)
+<img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" />
