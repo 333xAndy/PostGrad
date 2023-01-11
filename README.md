@@ -3,13 +3,12 @@
 
 <details>
 <summary>Table of Contents</summary>
-<br>
-  1. About this project(s)<br>
-  2.  How to Use<br>
-  3.  Roadmap<br>
-  4.  Contribution<br>
-  5.  Contact<br>
-  6.  Acknowledgements<br>
+         1. About this project(s)<br>
+         2.  How to Use<br>
+         3.  Roadmap<br>
+         4.  Contribution<br>
+         5.  Contact<br>
+         6.  Acknowledgements<br>
 </details>
 
   
@@ -26,7 +25,7 @@
   <p>Lets build something.</p>
   
 ## Contact
-  ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/ajdl)
+  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ajdl)
     
 ## Acknowledgements
   <!--Also fill this-->
