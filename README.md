@@ -1,6 +1,5 @@
-<p align="center">
 # PostGrad
-</p>
+
 
 <details>
 <summary>Table of Contents</summary>
@@ -15,21 +14,21 @@
 </details>
 
   
-##Introduction
+## Introduction
   The purpose of this repo is to study different areas of classes I enjoyed over the years. I will do my own individual research within each field of study.
   
-##How to use
+## How to use
   <p>Use how you see fit. As is.</p>
   
-##Roadmap
+## Roadmap
   <p>Currently, none</p>
   
-##Contribution
+## Contribution
   <p>Lets build something. Always looking for new things to test out.</p>
   
-##Contact
+## Contact
   <!--[Linkedin badge coming soon]-->
   <!--[and discord]-->
     
-#Acknowledgements
+## Acknowledgements
   <!--Also fill this-->
